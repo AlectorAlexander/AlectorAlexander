@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Estou em transição de carreira.<br>Estudo Desenvolvimento de Software na Trybe. Contudo eu já possuía alguma noção de HTML, CSS e Javascript antes de passar no processo seletivo dessa escola. Na Trybe, aperfeiçoei as Hard Skills que eu já possuía e desenvolvi algumas várias outras. Em matéria de Front- End, aprendi React, tanto com Componentes de Classes, quanto com Componentes Funcionais, gerenciamento de estados com Redux, Context Api e Hooks. No módulo de Back-end aprendi Docker e tive meu primeiro contato com bancos de dados com SQL e MySql, funções SQL, JOINs e Normalizações de Tabelas. Também aprendi a criar API's com Node em Arquitetura Rest e Restful, ORM, Express, Sequelize. Ainda estudei TypeScript e Programação Orientada a Objetos(POO), Solid, MongoDB, MongoDB com Node.js. 
 
 
