@@ -13,10 +13,8 @@ Estou em transição de carreira.<br>Estudo Desenvolvimento de Software na Trybe
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlectorAlexander&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlectorAlexander&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlectorAlexander&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
+### 😂 Meme Dev Aleatório
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
