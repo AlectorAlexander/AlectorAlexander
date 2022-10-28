@@ -11,10 +11,3 @@ Gosto muito de me desafiar, aprender, colocar em prática idéias inovadoras e a
 ![](https://github-readme-stats.vercel.app/api?username=AlectorAlexander&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlectorAlexander&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlectorAlexander&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 😂 Meme Dev Aleatório
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=AlectorAlexander&icon=0&color=0)](https://visitcount.itsvg.in)
